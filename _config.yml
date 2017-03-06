@@ -7,7 +7,7 @@ meta:
   author:
     full_name: Colin Vatcher
     short_name: cvatch
-    email:fairyqueen6615@gmail.com
+    email: fairyqueen6615@gmail.com
 
 pygments: true
 markdown: rdiscount
